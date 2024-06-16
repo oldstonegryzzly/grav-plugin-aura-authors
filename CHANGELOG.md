@@ -5,6 +5,6 @@
     * ChangeLog started...
 
 ##  16-06-2024
-1. [](#new)
+
 1. Updated aura-authors.php
 2. Updated author-bio.html.twig
