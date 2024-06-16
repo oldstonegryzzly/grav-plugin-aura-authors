@@ -3,3 +3,7 @@
 
 1. [](#new)
     * ChangeLog started...
+##  16-06-2024
+
+Updated aura-authors.php
+Updated author-bio.html.twig
