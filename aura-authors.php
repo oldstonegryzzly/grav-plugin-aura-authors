@@ -17,6 +17,7 @@ class AuraAuthorsPlugin extends Plugin
 
     public static function getAuthors()
     {
+        self::$authors = Grav::instance()['config']->get('plugins.aura-authors.authors');
         return self::$authors;
     }
 
