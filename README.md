@@ -1,5 +1,8 @@
 # Aura Authors Plugin
 
+## this fork patch the original code and work on Grav 1.7
+
+
 The **Aura Authors** Plugin for [Grav CMS](https://github.com/getgrav/grav) enables you to store author bios in a centrally managed repository and have them displayed across various pages of your site.
 
 ![Aura Authors Plugin for Grav - Demo](assets/demo.jpg)
