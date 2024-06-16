@@ -12,7 +12,7 @@
     <p class="author-heading">About the author</p>
     <hr />
     {% if author.image %}
-        {{ media['user://images/' ~ author.image|first.name].html('', author.name, 'author-image') }}
+        {{ media['user://images/' ~ author.image|first.name].html('', author.name, 'author-image')|raw }}
     {% endif %}
     <div class="author-text">
         <div>
